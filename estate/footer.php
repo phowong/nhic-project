@@ -24,8 +24,8 @@
 
 	<div id="site-info">
 		<div class="container">
-			<?php do_action( 'estate_credits' ); ?>
-			<?php echo apply_filters( 'siteorigin_attribution_footer', (siteorigin_setting('text_footer_text') != '' ? ' - ' : '') . sprintf( __( 'Designed by %1$s', 'estate' ), '<a href="http://siteorigin.com/" rel="designer">SiteOrigin</a>' ) ); ?>
+			<!-- //<?php do_action( 'estate_credits' ); ?> -->
+			<!--//<?php echo apply_filters( 'siteorigin_attribution_footer', (siteorigin_setting('text_footer_text') != '' ? ' - ' : '') . sprintf( __( 'Designed by %1$s', 'estate' ), '<a href="http://siteorigin.com/" rel="designer">SiteOrigin</a>' ) ); ?>-->
 		</div>
 	</div><!-- .site-info -->
 </div><!-- #page .hfeed .site -->
