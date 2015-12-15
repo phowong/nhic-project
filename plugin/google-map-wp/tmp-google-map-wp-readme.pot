@@ -1,0 +1,481 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Google Map"
+msgstr ""
+
+#. Short description.
+msgid "Huge-IT Google Map. One more perfect tool from Huge-IT. Improved Google Maps, where  we have our special contribution."
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/google-map/\">WordPress Google Maps</a> - Google Maps Layer"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/google-map/\">WordPress Google Maps</a> - Google Maps Marker"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/google-map/\">WordPress Google Maps</a> - Google Maps Markers"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/google-map/\">WordPress Google Maps</a> - Google Maps Shapes"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/google-map/\">WordPress Google Maps</a> - Google Maps admin page"
+msgstr ""
+
+#. Found in description header.
+msgid "Wordpress Google Maps"
+msgstr ""
+
+#. Found in description header.
+msgid "Google Map Demos"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://huge-it.com/google-map/\">Wordpress Google Maps</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://huge-it.com/wordpress-plugins-google-map-layers/\">Demo Google Maps</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://huge-it.com/wordpress-google-map-faq/\">FAQ Google Maps</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://huge-it.com/wordpress-google-map-user-manual/\">User Manual Google Maps</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "https://www.youtube.com/watch?v=-2z8tDZeaBs"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Huge-IT Google Map. One more perfect tool from Huge-IT. Improved Google Maps, where  we have our special contribution. Most simple and effective tool for rapid creation of individual Google Maps in posts and pages."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"With our Google s, you can provide your visitors with information about the exact location of your company/place. To make sure that people can find your place, you should add the appropriate information to the markers of Google maps. With the help of this plugin give information on the right location of your business, you distribute information about yourself, get free traffic and increases the number of transitions to your page from the usual search on Google.\n"
+"On the maps you can create marker with has many beautiful styles. besides given styles you also can upload your preferable image and set it instead of marker\n"
+"We also added useful special features. You can select the exact location, track or spread area of a place."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Polygons - bounded highlighted area on the maps, showing the specific range, limited with geometric figure. You can easy create a polygon, give shape and set styles on it. With polygon you can show to your visitors the borders of a specific location."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Polylines - continuous line composed of one or more line segments, which creates specific track. With Polylines you can highlight specific road/track, give styles to the path and change it whenever you need. Show to you visitors how to get to your place and many other things\n"
+"Circles - round area, showing the specific range. With circle you can take the area into round border and give styles to it.\n"
+"All these features can quickly and easily adapted to your requirements and needs."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Google Maps can be easily integrated with the site. On Web sites of WordPress can be easily inserted, customized and used in posts, pages or as a simple widget. And your visitors can  instantly understand how to get to you, you just need to provide the coordinates. \n"
+"We made for you a big list of customization. Most of them are absolutely free and easy to use."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You only need to install the plugin from WordPress, and see all options on admin page, with demonstration map, next to it, so you can watch all your changes before inserting into post/page."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-plugins-google-map-layers/\">Google Map Layers Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-google-map-demo-2-google-map-markers/\">Google Map Markers Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-google-map-demo-3-google-map-shapes/\">Google Map Shapes Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-google-map-faq/\">FAQ Google Map</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you think, that you found a bug in our <a href=\"http://huge-it.com/google-map/\">WordPress Google Map</a> plugin or have any question contact us at <a href=\"mailto:info@huge-it.com\">info@huge-it.com</a>."
+msgstr ""
+
+#. Found in installation header.
+msgid "First download the ZIP file - Google Maps ,"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Log in to your website administrator panel.   "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to Plugins page, and add new plugin.    "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <a href=\"http://wordpress.org/plugins/google-map-wp\">WordPress Google Map</a>. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click <code>Install Now</code> button.     "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Then click <code>Activate Plugin</code> button. "
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Now you can set your Image Gallery options, images and use our Google Maps."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Mirror Bug fixed google maps."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed google maps."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security Bug fixed google maps."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Front end performance optimizations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new features. Layers options admin panel few bugs fixed. Map styling added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Admin panel bugs fixed. Front end bugs fixed. Mozilla Firefox Front end bug fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add google search box."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Front end bug fixed Google Maps."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Google Maps."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 1. Adding a Google Maps"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Step 1 Add Google Maps in post/page</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "In order to add created Google Maps plugin in post/page, copy/past the shortcode. Or add like a widget from widgets page."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Step 2 Edit Google Maps</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "2.1 Google Maps Options."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Google Maps names. Give a names to your Google maps"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Enable Pan-Controller. Select to enable movement controller"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Enable Zoom-Controller. Select to enable zoom controller"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Enable Map-Type-Controller. Enables map controller in order to view satellite as well"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Enable Scale-Controller. Select to show scale"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Enable Street-View-Controller. Select to be able to see streets with “little man”"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Enable Overview-Map-Controller. Select to see map controller on the bottom right corner"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Default Zoom. Set the zoom level for maps"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Center Address. Give address to maps center"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Center Latitude. Set latitude for the maps center"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Center Longitude. Set longitude for maps center"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Map width. Give size for maps width (in presents)"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Map height. Give size for maps height (in px)"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Map align. Put your map on the left, right or center within  theme container"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Border Radius. Set the radius for maps borders"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO Map type. Choose one from 4 different views of the maps"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO Marker Infowindow Open On. Choose how to open information on marker"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>2.2 Markers - Google Map</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid ""
+"Click +Add New Marker and create unlimited markers for your specific places\n"
+".\n"
+"Right Click on map wherever you want marker to appear. Hold pressed and change marker’s position moving mouse."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Address. Give address to the marker"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Latitude. Select latitude to the  marker’s place"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Longitude. Select longitude to the marker’s place"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Animation. Choose animation for the marker"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title. Give title to the marker"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description. Give title to the marker/place"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO Choose Marker Icon from our list of stylish markers"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO Size of Icon. Choose marker size"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO Custom Marker Icon. You can upload your preferable icon(picture) for marker"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>2.3 Polygons - Google Map</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Polygons - bounded highlighted area on the map, showing the specific range, limited with geometric figure."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Click +Add New Polygons and create new one for your specific area."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Right click and hold to set polygon’s boundaries"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Name. Give name to the Polygon"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link. Add link with external URL, which will take to another page"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Latitude &amp; Longitude Data. Manually change or add new borders of polygon"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Line Transparency. Select the level of transparency for boundary line"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Line Color. Choose color for  boundary line"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Line Width. Set width for  boundary line"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Fill Transparency. Select the level of transparency for internal area of polygon"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Fill Color. Choose color  for internal area of polygon"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO On-Hover Fill Transparency. Select the level of transparency for internal area of polygon while hover"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO On-Hover Fill Color. Choose color  for internal area of polygon while hover"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO On-Hover Line Transparency. Select the level of transparency for boundary line while hover"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO On-Hover Line Color. Choose color for  boundary line while hover"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>2.4 Polylines - Google Map</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Polyline - continuous line composed of one or more line segments, which creates specific track"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Click +Add New Polylines and create new one for your specific area."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Right click and hold to set path of polyline"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Name. Give name to the Polyline"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Latitude &amp; Longitude Data. Right click and select latitude &amp; longitude data for Polyline"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Line Transparency. Select the level of transparency of  Polyline"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Line Color. Choose color  of  Polyline"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Line Width. Set width  of  Polyline"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO On-Hover Line Color. Choose color  of  Polyline while hover"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO On-Hover Line Transparency.  Select the level of Polyline transparency while hover"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>2.5 Circles - Google Map</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Circle - round area, showing the specific range"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Click +Add New Circle and create new one for your specific area."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Right click on map wherever you need to place the circle’s center"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Center Address. Give some address for center of the circle"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Center Latitude.  Select middle Latitude of the circle range"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Center Longitude. Select middle Longitude of the circle range"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Marker? Select YES to see the marker in the middle of the circle"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Radius(meter). Give radius level for circle"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Line Width. Set width for boundary line of circle"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Line Color. Give color to boundary line of circle"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Line Transparency. Choose transparency level for boundary line of circle"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Fill Color. Choose color  for internal area of circle"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Fill Transparency. Select the level of transparency for internal area of circle"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO On-Hover Fill Transparency. Select the level of transparency for internal area of circle while hover"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "PRO On-Hover Fill Color. Choose color  for internal area of circle while hover"
+msgstr ""
